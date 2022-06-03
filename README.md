@@ -48,3 +48,4 @@
     </tr>
   </tbody>
 </table>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshua.lamke@gmail.com)](mailto:joshua.lamke@gmail.com)
