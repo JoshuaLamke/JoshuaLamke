@@ -25,7 +25,7 @@
     <tr valign="top">
       <td width="33%" align="center">
         <span><b>Node</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/node.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="33%" align="center">
         <span><b>VSCode</b></span><br><br><br>
