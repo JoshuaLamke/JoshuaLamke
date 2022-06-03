@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="33%" align="center" justify="center>
+      <td width="33%" align="center" justify="center">
         <span><b>Node</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
