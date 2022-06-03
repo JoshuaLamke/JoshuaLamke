@@ -10,10 +10,6 @@
   <tbody>
     <tr valign="top">
       <td width="33%" align="center">
-        <span><b>HTML</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="33%" align="center">
         <span><b>JavaScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
@@ -21,22 +17,30 @@
         <span><b>TypeScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="33%" align="center">
         <span><b>React</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="33%" align="center">
-        <span><b>Git</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span><b>Node</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/node.svg">
       </td>
       <td width="33%" align="center">
         <span><b>VSCode</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="33%" align="center">
+        <span><b>HTML</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
     </tr>
     <tr valign="top">
+      <td width="33%" align="center">
+        <span><b>Git</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
       <td width="33%" align="center">
         <span><b>Netlify</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
