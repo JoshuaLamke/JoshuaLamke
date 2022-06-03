@@ -48,7 +48,6 @@
     </tr>
   </tbody>
 </table>
-## Link
 <!-- hit [today / total] -->
 <div align=center>
 
@@ -56,6 +55,6 @@
 
 <!-- icons -->
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshua.lamke@gmail.com)](mailto:joshua.lamke@gmail.com)
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][(https://github.com/JoshuaLamke/JoshuaLamke)]
 
 </div>
