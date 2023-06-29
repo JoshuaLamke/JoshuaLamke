@@ -1,6 +1,6 @@
 # Hello! I'm Joshua Lamke
 
-:computer: Junior full stack developer, currently based in Centreville, VA. 
+:computer: Full stack developer, currently based in Centreville, VA. 
 
 :vulcan_salute: I love learning new frameworks and applications of JavaScript. 
 
