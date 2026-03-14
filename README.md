@@ -2,7 +2,7 @@
 
 :computer: Full stack developer, currently based in Centreville, VA. 
 
-:vulcan_salute: I love learning new frameworks and applications of JavaScript. 
+I love learning new technologies and building interesting things. 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
